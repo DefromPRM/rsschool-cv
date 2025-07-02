@@ -1,10 +1,13 @@
 ## Demid Tarasov
 
+![My photo](MyPhoto.jpg)
+
 ## Contacts:
 
 **Phone:** 8-982-447-5-446; <br>
 **Email:** DefromPRM@gmail.com; <br>
-**Telegram:** @DefromPRM.
+**Telegram:** @DefromPRM; <br>
+**Discord:** Defrom
 
 ## About me:
 
