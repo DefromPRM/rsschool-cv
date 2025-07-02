@@ -30,6 +30,7 @@ function multiply(a, b){
 ## Experience:
 
 Assembly of aircraft engines from 2011 to today. <br>
+
 Layout of layouts on online school courses:<br>
 
 - https://gb-layout.vercel.app/ <br>
@@ -40,3 +41,8 @@ Layout of layouts on online school courses:<br>
 - Perm Construction College, construction of buildings and structures, 2005-2009; <br>
 - Perm National Research Polytechnic University, power engineering, 2019-2024; <br>
 - online school "GeekBrains" 2024-today.
+
+## Language:
+
+Russian - native language; <br>
+English - B1 (hh.ru)
