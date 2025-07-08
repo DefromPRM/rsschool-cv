@@ -1,1 +1,1 @@
-https://github.com/DefromPRM/rsschool-cv.git
+https://defromprm.github.io/rsschool-cv/
